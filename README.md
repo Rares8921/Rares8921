@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I am Rares</h1>
+<h1 align="center">Hello, I am Rares</h1>
 <h3 align="center">Passionate developer with a strong focus on building efficient, scalable solutions. Experienced in multiple programming languages and technologies.</h3>
 
 - 🔭 I’m currently working on **developing an Android application for a start-up focused on enhancing food delivery services.**
 
-- 👯 I’m looking to collaborate on **I’m eager to work on software development projects, particularly in machine learning engineering and research. I’m also interested in collaborations involving image processing and mathematical applications. If you have a project that aligns with these areas, let’s connect!**
+- 👯 **I’m eager to work on software development projects, particularly in machine learning engineering and research. I’m also interested in collaborations involving image processing and mathematical applications. If you have a project that aligns with these areas, let’s connect!**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1728953249452/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1728953249452/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8)
 
