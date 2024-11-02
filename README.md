@@ -20,7 +20,7 @@
 
 **_Frameworks:_**
    ---
-   - .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Sass, Scikit-Learn, Selenium, Spring, TensorFlow
+   - .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Sass, Scikit-Learn, Selenium, Spring, TensorFlow etc.
 
 **_Operating systems/kernels:_**  
    ---
