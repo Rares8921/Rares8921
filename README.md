@@ -16,11 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <h4><u>Experience in languages: </u></h4> <p align="center">  Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
-  <h4><u>Frameworks: </u></h4> <p align="center">  .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
-  <h4><u>Operating systems/kernels: </u></h4> <p align="center">  Android, OpenBSD, Linux, Ubuntu, Windows</p>
-  <h4><u>Devops&version control: </u><h4> <p align="center">  Docker, Kubernetes, Git, Postman</p>
-  <h4><u>Other tools: </u></h4> <p align="center">  Blender, Figma, Photoshop</p>
+  <h4><u>Experience in languages: </u></h4> <p style="margin-left: 7.33%;">  Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
+  <h4><u>Frameworks: </u></h4> <p style="margin-left: 7.33%;">  .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
+  <h4><u>Operating systems/kernels: </u></h4> <p style="margin-left: 7.33%;">  Android, OpenBSD, Linux, Ubuntu, Windows</p>
+  <h4><u>Devops&version control: </u><h4> <p style="margin-left: 7.33%;">  Docker, Kubernetes, Git, Postman</p>
+  <h4><u>Other tools: </u></h4> <p style="margin-left: 7.33%;">  Blender, Figma, Photoshop</p>
 </p>
 
 
