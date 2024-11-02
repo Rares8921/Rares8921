@@ -16,7 +16,7 @@
 
 **_Experience in languages:_**  
    ---
-   - Java, C/C++, C#, JavaScript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
+   - Java, C/C++, C#, JavaScript, Python, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
 
 **_Frameworks:_**
    ---
