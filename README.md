@@ -16,23 +16,23 @@
 
 ### Languages and Tools:
 
-**Experience in languages:**  
+**_Experience in languages:_**  
    ---
    - Java, C/C++, C#, JavaScript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
 
-**Frameworks:**  
+**_Frameworks:_**
    ---
    - .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Sass, Scikit-Learn, Selenium, Spring, TensorFlow
 
-**Operating systems/kernels:**  
+**_Operating systems/kernels:_**  
    ---
    - Android, OpenBSD, Linux, Ubuntu, Windows
 
-**DevOps & version control:**  
+**_DevOps & version control:_**  
    ---
    - Docker, Kubernetes, Git, Postman
 
-**Other tools:**  
+**_Other tools:_**  
    ---
    - Blender, Figma, Photoshop
 
