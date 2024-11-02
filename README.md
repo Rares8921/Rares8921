@@ -16,19 +16,21 @@
 
 ### Languages and Tools:
 
-<u>**Experience in languages:**</u>  
+### Languages and Tools:
+
+**_Experience in languages:_**  
    - Java, C/C++, C#, JavaScript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
 
-<u>**Frameworks:**</u>  
+**_Frameworks:_**  
    - .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Sass, Scikit-Learn, Selenium, Spring, TensorFlow
 
-<u>**Operating systems/kernels:**</u>  
+**_Operating systems/kernels:_**  
    - Android, OpenBSD, Linux, Ubuntu, Windows
 
-<u>**DevOps & version control:**</u>  
+**_DevOps & version control:_**  
    - Docker, Kubernetes, Git, Postman
 
-<u>**Other tools:**</u>  
+**_Other tools:_**  
    - Blender, Figma, Photoshop
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rares8921&show_icons=true&locale=en&layout=compact&theme=dark" alt="rares8921" /></p>
