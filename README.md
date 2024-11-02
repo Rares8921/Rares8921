@@ -15,12 +15,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <h4>Experience in languages: </h4> <p>  Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
-  <h4>Frameworks: </h4> <p>  .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
-  <h4>Operating systems/kernels: </h4> <p>  Android, OpenBSD, Linux, Ubuntu, Windows</p>
-  <h4>Devops&version control<h4> <p>  Docker, Kubernetes, Git, Postman</p>
-  <h4>Other tools: </h4> <p>  Blender, Figma, Photoshop</p>
+<p>
+  <h4><u>Experience in languages: </u></h4> <p>  Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
+  <h4><u>Frameworks: </u></h4> <p>  .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
+  <h4><u>Operating systems/kernels: </u></h4> <p>  Android, OpenBSD, Linux, Ubuntu, Windows</p>
+  <h4><u>Devops&version control: </u><h4> <p>  Docker, Kubernetes, Git, Postman</p>
+  <h4><u>Other tools: </u></h4> <p>  Blender, Figma, Photoshop</p>
 </p>
 
 
