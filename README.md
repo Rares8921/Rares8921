@@ -14,8 +14,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/rares89_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rares89_/" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
-
 **_Experience in languages:_**  
    ---
    - Java, C/C++, C#, JavaScript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
