@@ -16,7 +16,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  Android, Bash, Blender, Bootstrap, C, C++, C#, CSS3, Docker, .NET, Express.js, Figma, Git, HTML5, Java, JavaScript, Kubernetes, Linux, MySQL, Node.js, OpenCV, Oracle, Pandas, Photoshop, Postman, Python, PyTorch, Sass, Scikit-Learn, Selenium, Spring, SQLite, TensorFlow
+  <h4>Experience in languages: </h4> <p>Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
+  <h4>Frameworks: </h4> <p>.NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
+  <h4>Operating systems/kernels: </h4> <p>Android, OpenBSD, Linux, Ubuntu, Windows</p>
+  <h4>Devops&version control<h4> <p>Docker, Kubernetes, Git, Postman</p>
+  <h4>Other tools: </h4> <p>Blender, Figma, Photoshop</p>
 </p>
 
 
