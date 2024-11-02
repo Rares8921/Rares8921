@@ -14,14 +14,23 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/rares89_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rares89_/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <h4><u>Experience in languages: </u></h4> <p style="margin-left: 7.33%;">  Java, C/C++, C#, Javascript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML&CSS</p>
-  <h4><u>Frameworks: </u></h4> <p style="margin-left: 7.33%;">  .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Saas, Scikit-Learn, Selenium, Spring, TensorFlow</p>
-  <h4><u>Operating systems/kernels: </u></h4> <p style="margin-left: 7.33%;">  Android, OpenBSD, Linux, Ubuntu, Windows</p>
-  <h4><u>Devops&version control: </u><h4> <p style="margin-left: 7.33%;">  Docker, Kubernetes, Git, Postman</p>
-  <h4><u>Other tools: </u></h4> <p style="margin-left: 7.33%;">  Blender, Figma, Photoshop</p>
-</p>
+### Languages and Tools:
+
+**Experience in languages:**
+   - Java, C/C++, C#, JavaScript, Python, MySQL, OracleSQL, TransactSQL, SQLite, Haskell, HTML & CSS
+
+**Frameworks:**
+   - .NET, Express.js, Node.js, OpenCV, Pandas, PyTorch, Bootstrap, Sass, Scikit-Learn, Selenium, Spring, TensorFlow
+
+**Operating systems/kernels:**
+   - Android, OpenBSD, Linux, Ubuntu, Windows
+
+**DevOps & version control:**
+   - Docker, Kubernetes, Git, Postman
+
+**Other tools:**
+   - Blender, Figma, Photoshop
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rares8921&show_icons=true&locale=en&layout=compact&theme=dark" alt="rares8921" /></p>
