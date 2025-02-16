@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Rares</h1>
 <h3 align="center">Passionate developer with a strong focus on building efficient, scalable solutions. Experienced in multiple programming languages and technologies.</h3>
 
-- 🔭 I’m currently working on **developing an Android application for a start-up focused on enhancing food delivery services.**
+- 🔭 I’m currently working on **developing applications and services for start-ups focused on cashflow, 3d printing etc.**
 
 - 👯 **I’m eager to work on software development projects, particularly in machine learning engineering and research. I’m also interested in collaborations involving image processing and mathematical applications. If you have a project that aligns with these areas, let’s connect!**
 
