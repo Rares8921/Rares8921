@@ -34,4 +34,4 @@
    ---
    - Blender, Figma, Photoshop
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rares8921&show_icons=true&locale=en&layout=compact&theme=dark" alt="rares8921" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rares8921&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rares8921" /></p>
