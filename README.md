@@ -5,7 +5,7 @@
 
 - 👯 **I’m eager to work on software development projects, particularly in machine learning engineering and research. I’m also interested in collaborations involving image processing and mathematical applications. If you have a project that aligns with these areas, let’s connect!**
 
-- 📄 Know about my experiences: [CV]([https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1728953249452/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1740256631177/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8))
+- 📄 Know about my experiences: [CV](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1740256631177/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
