@@ -3,7 +3,7 @@
 
 - 💼 Currently working on embedded software and ML integrations for real-time systems.  
 - 🤝 Open to collaborations in **machine learning**, **document intelligence**, and **software engineering** of any type.  
-- 📄 Learn more: [CV](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1740256631177/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8)
+- 📄 Learn more: [CV](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1760396664050/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
