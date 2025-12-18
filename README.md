@@ -1,22 +1,70 @@
-<h1 align="center">Hi, I'm Rares</h1>
-<h3 align="center">Software Engineer with a focus on backend systems, applied AI, and scalable software design. Passionate about combining solid engineering with data-driven solutions.</h3>
+<h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
+<p align="center"><b>Software Engineer</b> · Full-Stack Dev · Applied AI · Embedded · Computer Vision</p>
 
-- 💼 Currently working on embedded software and ML integrations for real-time systems.  
-- 🤝 Open to collaborations in **machine learning**, **document intelligence**, and **software engineering** of any type.  
-- 📄 Learn more: [CV](https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1760396664050/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rares89_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rares8921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+<p align="center">
+  <b>Open for B2B collaborations & contract-based projects preferably in my area of expertise</b><br/>
+  <b>Interested in research: InstRead PN-IV-P2-2.1-TE-2023-2007, Eye Tracking, Text Complexity, Readability & Human Behaviour Modeling</b>
 </p>
 
-**Core Technologies**  
----
-- **Languages:** Python, Java, C++, JavaScript/TypeScript, SQL  
-- **Frameworks & Libraries:** Spring Boot, .NET, Node.js, Express.js, TensorFlow, PyTorch, OpenCV, Scikit-Learn  
-- **DevOps & Infrastructure:** Docker, Kubernetes, Git, Postman  
-- **Database Systems:** Oracle, T-SQL, MariaDB
+<p align="center">
+  <a href="#" title="Visit my Personal Website">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-008B8B?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/" title="Connect on LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1760396664050/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8" title="View CV">
+    <img alt="CV" src="https://img.shields.io/badge/Resume-darkgreen?style=for-the-badge&logo=read-the-docs&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:dumrares1@gmail.com" title="Send me an email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rares8921&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="rares8921" /></p>
+<br/>
+
+## Main technologies
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=asd,java,cs,js,ts,python,cpp,c,asd" />
+</p>
+
+<p align="center">
+  <b>Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,react,angular,androidstudio,flask,fastapi" />
+</p>
+
+<p align="center">
+  <b>Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,firebase,appwrite" />
+</p>
+
+<p align="center">
+  <b>Infrastructure</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,graphql,githubactions,git,redis,linux,maven,gradle" />
+</p>
+
+<p align="center">
+  <b>AI</b><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow" />
+</p>
+
+---
+
+## Areas of Expertise
+
+* **Full-Stack Platform Engineering:** Building integral platforms from scratch, handling everything from **Backend & Frontend** to **Database Design & Infrastructure** (DevOps, CI/CD).
+* **Computer Vision & Embedded Systems:** Developing complex vision systems optimized for embedded constraints and integrating ML models into real-time firmware pipelines.
+* **Applied AI & LLMs:** Designing RAG systems, Multimodal Document Intelligence, and OCR integrations.
+* **Research:** Designing evaluation metrics and data pipelines for the analysis of human decision-making and AI comprehension.
+
+<br/>
+<p align="center">
+  <i>Let's build something together.</i>
+</p>
