@@ -1,5 +1,5 @@
 <h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
-<p align="center"><b>Software Engineer</b> · Full-Stack Dev · Applied AI · Embedded · Computer Vision</p>
+<p align="center"><b>Software Engineer</b> · Applied AI · Computer Vision</p>
 
 <p align="center">
   <b>Open for B2B collaborations & contract-based projects preferably in my area of expertise</b><br/>
@@ -32,12 +32,12 @@
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=asd,java,cs,js,ts,python,cpp,c,asd" />
+  <img src="https://skillicons.dev/icons?i=asd,java,js,ts,python,cpp,c,asd" />
 </p>
 
 <p align="center">
   <b>Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,react,angular,androidstudio,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,androidstudio,flask,fastapi" />
 </p>
 
 <p align="center">
