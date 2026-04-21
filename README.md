@@ -1,70 +1,90 @@
 <h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
-<p align="center"><b>Software Engineer</b> · Applied AI · Computer Vision</p>
 
 <p align="center">
-  <b>Open for B2B collaborations & contract-based projects preferably in my area of expertise</b><br/>
-  <b>Interested in research: InstRead PN-IV-P2-2.1-TE-2023-2007, Eye Tracking, Text Complexity, Readability & Human Behaviour Modeling</b>
+<b>Software Engineer | AI & Cloud Infrastructure | ML Systems | Distributed Systems</b>
 </p>
 
 <p align="center">
-  <a href="#" title="Visit my Personal Website">
-    <img alt="Website" src="https://img.shields.io/badge/My%20Website-008B8B?style=for-the-badge&logo=firefox&logoColor=white">
+I build production-grade machine learning systems focused on real-time inference, scalability, reliability, and cost efficiency.
+</p>
+
+<p align="center">
+My work sits at the intersection of backend engineering, distributed systems, and applied AI.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img alt="Website" src="https://img.shields.io/badge/Website-008B8B?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
-</p>
-<p align="center">
   &nbsp;
-  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu-214462205/overlay/1760396664050/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8" title="View CV">
-    <img alt="CV" src="https://img.shields.io/badge/Resume-darkgreen?style=for-the-badge&logo=read-the-docs&logoColor=white">
+  <a href="YOUR_RESUME_LINK">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-darkgreen?style=for-the-badge&logo=read-the-docs&logoColor=white">
   </a>
   &nbsp;
-  <a href="mailto:dumrares1@gmail.com" title="Send me an email">
+  <a href="mailto:dumrares1@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-<br/>
+---
 
-## Main technologies
+## Featured Projects
+
+### Enterprise Multimodal Document Intelligence Platform
+- Production-grade MLOps system combining OCR, LayoutLMv3, hybrid retrieval, and LLM reasoning.
+- Processed **10k+ documents/day**, served **5.8k QPS**, achieved **94.3% extraction accuracy**.
+- Built distributed microservices architecture with async pipelines, Redis queues, Kubernetes, and observability stack.
+
+### Cost-Aware Autoscaling GPU Inference Cluster
+- Multi-tenant GPU serving platform with dynamic micro-batching and Redis-based scheduling.
+- Increased throughput **~2.3x** while maintaining **p99 <100ms** under 5x traffic spikes.
+- Reduced infrastructure costs **32%** through intelligent autoscaling and warm-pool strategies.
+
+### Human Behaviour Modeling for AI
+- Eye-tracking research pipeline using raw gaze streams, fixation engineering, and attention heatmaps.
+- Built **BiLSTM + Attention** sequential classifier achieving **56% accuracy vs ~9% random baseline**.
+- Evaluated human visual behavior against computational saliency models.
+
+---
+
+## Core Technologies
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=asd,java,js,ts,python,cpp,c,asd" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
 </p>
 
 <p align="center">
-  <b>Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,angular,androidstudio,flask,fastapi" />
-</p>
-
-<p align="center">
-  <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,firebase,appwrite" />
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
 </p>
 
 <p align="center">
   <b>Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,graphql,githubactions,git,redis,linux,maven,gradle" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,linux,git,githubactions,nginx,aws" />
 </p>
 
 <p align="center">
-  <b>AI</b><br/>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow" />
+  <b>ML / AI</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
 </p>
 
 ---
 
-## Areas of Expertise
+## Current Focus
 
-* **Full-Stack Platform Engineering:** Building integral platforms from scratch, handling everything from **Backend & Frontend** to **Database Design & Infrastructure** (DevOps, CI/CD).
-* **Computer Vision & Embedded Systems:** Developing complex vision systems optimized for embedded constraints and integrating ML models into real-time firmware pipelines.
-* **Applied AI & LLMs:** Designing RAG systems, Multimodal Document Intelligence, and OCR integrations.
-* **Research:** Designing evaluation metrics and data pipelines for the analysis of human decision-making and AI comprehension.
+- Real-time ML inference systems  
+- Distributed architectures  
+- MLOps and observability  
+- Cost-efficient AI serving  
+- Retrieval and decision systems  
 
-<br/>
+---
+
 <p align="center">
-  <i>Let's build something together.</i>
+<i>Always building.</i>
 </p>
