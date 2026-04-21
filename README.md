@@ -34,32 +34,30 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 ## About
 
-Focused on building systems where machine learning has to perform under real constraints: latency, scale, uptime, and cost.
+Focused on building systems where machine learning must perform under real constraints: latency, scale, uptime, and cost.
 
-Most of my work is around inference platforms, distributed services, retrieval pipelines, orchestration layers, and production AI infrastructure rather than isolated notebook experiments.
-
-I enjoy turning complex ideas into systems that actually run reliably.
+Most of my work is around inference platforms, distributed services, retrieval systems, orchestration layers, and production AI infrastructure.
 
 ---
 
 ## Featured Projects
 
-Pinned below are a few representative projects focused on ML systems, distributed infrastructure, and production AI. More projects, experiments, and technical builds are available across my repositories and portfolio.
+Pinned below are selected projects. More builds and experiments are available in my repositories.
 
 ### Enterprise Multimodal Document Intelligence Platform
-- Production-grade MLOps system combining OCR, LayoutLMv3, hybrid retrieval, and LLM reasoning.
-- Processed **10k+ documents/day**, served **5.8k QPS**, achieved **94.3% extraction accuracy**.
-- Built distributed microservices architecture with async pipelines, Redis queues, Kubernetes, and observability stack.
+- OCR + retrieval + LLM platform for legal and financial documents.
+- **10k+ docs/day**, **5.8k QPS**, **94.3% extraction accuracy**.
+- Kubernetes microservices with async pipelines and observability.
 
 ### Cost-Aware Autoscaling GPU Inference Cluster
-- Multi-tenant GPU serving platform with dynamic micro-batching and Redis-based scheduling.
-- Increased throughput **~2.3x** while maintaining **p99 <100ms** under 5x traffic spikes.
-- Reduced infrastructure costs **32%** through intelligent autoscaling and warm-pool strategies.
+- Multi-tenant GPU serving with batching and Redis scheduling.
+- **2.3x throughput**, **p99 <100ms** under burst traffic.
+- **32% lower infra cost** through autoscaling policies.
 
 ### Human Behaviour Modeling for AI
-- Eye-tracking research pipeline using raw gaze streams, fixation engineering, and attention heatmaps.
-- Built **BiLSTM + Attention** sequential classifier achieving **56% accuracy vs ~9% random baseline**.
-- Evaluated human visual behavior against computational saliency models.
+- Eye-tracking research pipeline using raw gaze streams.
+- **BiLSTM + Attention** reached **56% accuracy** vs **9% random baseline**.
+- Human attention compared against saliency models.
 
 ---
 
@@ -82,15 +80,15 @@ Pinned below are a few representative projects focused on ML systems, distribute
 
 <p align="center">
   <b>ML / AI</b><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  PyTorch · OpenCV · Transformers · NLP · Computer Vision · OCR · LLMs · Multimodal AI
 </p>
 
 ---
 
 ## Current Focus
 
-- Real-time ML inference systems
-- Distributed architectures
+- Real-time ML inference
+- Distributed systems
 - MLOps and observability
 - Cost-efficient AI serving
 - Retrieval and decision systems
