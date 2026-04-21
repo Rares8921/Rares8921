@@ -32,7 +32,19 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 ---
 
+## About
+
+Focused on building systems where machine learning has to perform under real constraints: latency, scale, uptime, and cost.
+
+Most of my work is around inference platforms, distributed services, retrieval pipelines, orchestration layers, and production AI infrastructure rather than isolated notebook experiments.
+
+I enjoy turning complex ideas into systems that actually run reliably.
+
+---
+
 ## Featured Projects
+
+Pinned below are a few representative projects focused on ML systems, distributed infrastructure, and production AI. More projects, experiments, and technical builds are available across my repositories and portfolio.
 
 ### Enterprise Multimodal Document Intelligence Platform
 - Production-grade MLOps system combining OCR, LayoutLMv3, hybrid retrieval, and LLM reasoning.
@@ -55,7 +67,7 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 <p align="center">
   <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
 <p align="center">
@@ -77,11 +89,11 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 ## Current Focus
 
-- Real-time ML inference systems  
-- Distributed architectures  
-- MLOps and observability  
-- Cost-efficient AI serving  
-- Retrieval and decision systems  
+- Real-time ML inference systems
+- Distributed architectures
+- MLOps and observability
+- Cost-efficient AI serving
+- Retrieval and decision systems
 
 ---
 
