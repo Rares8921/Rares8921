@@ -65,26 +65,22 @@ Selected systems aligned with production ML and distributed infrastructure work.
 
 <p align="center">
 <b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" /><br/>
 Python · Java · C++ · C · JavaScript · TypeScript
 </p>
 
 <p align="center">
 <b>Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" /><br/>
-APIs · Microservices · REST · Async Systems
+FastAPI · Spring Boot · Node.js · REST APIs · Microservices · Async Systems
 </p>
 
 <p align="center">
 <b>Infrastructure</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,linux,git,githubactions,nginx" /><br/>
-Distributed Systems · Cloud · Containers · CI/CD · Observability
+Docker · Kubernetes · Redis · AWS · Linux · Git · CI/CD · Nginx
 </p>
 
 <p align="center">
 <b>AI / ML</b><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv" /><br/>
-Transformers · LLMs · NLP · OCR · Computer Vision · Multimodal AI
+Transformers · LLMs · NLP · OCR · Computer Vision · Multimodal AI · PyTorch · OpenCV
 </p>
 
 ---
