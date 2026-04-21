@@ -34,64 +34,49 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 ## About
 
-Focused on building systems where machine learning must perform under real constraints: latency, scale, uptime, and cost.
+Focused on building systems where machine learning must operate under real production constraints: latency, scale, reliability, and cost.
 
-Most of my work is around inference platforms, distributed services, retrieval systems, orchestration layers, and production AI infrastructure.
+Work spans inference systems, distributed architectures, retrieval pipelines, orchestration layers, and applied ML systems.
 
 ---
 
 ## Featured Projects
 
-Pinned below are selected projects. More builds and experiments are available in my repositories.
+Selected systems aligned with production ML and distributed infrastructure work. More experiments and builds are available in my repositories.
 
 ### Enterprise Multimodal Document Intelligence Platform
-- OCR + retrieval + LLM platform for legal and financial documents.
-- **10k+ docs/day**, **5.8k QPS**, **94.3% extraction accuracy**.
-- Kubernetes microservices with async pipelines and observability.
+- End-to-end OCR + LayoutLMv3 + retrieval + LLM system for document understanding.
+- 10k+ docs/day, 5.8k QPS, 94.3% extraction accuracy.
+- Distributed microservices architecture with async pipelines, caching, and observability.
 
 ### Cost-Aware Autoscaling GPU Inference Cluster
-- Multi-tenant GPU serving with batching and Redis scheduling.
-- **2.3x throughput**, **p99 <100ms** under burst traffic.
-- **32% lower infra cost** through autoscaling policies.
+- Multi-tenant GPU inference platform with batching and Redis scheduling.
+- 2.3x throughput improvement with p99 <100ms under 5x traffic spikes.
+- 32% infrastructure cost reduction via autoscaling + warm pool design.
 
 ### Human Behaviour Modeling for AI
-- Eye-tracking research pipeline using raw gaze streams.
-- **BiLSTM + Attention** reached **56% accuracy** vs **9% random baseline**.
-- Human attention compared against saliency models.
+- Eye-tracking based ML pipeline on raw gaze streams.
+- BiLSTM + Attention model achieving 56% accuracy vs 9% baseline.
+- Behavioral analysis against computational saliency models.
 
 ---
 
 ## Core Technologies
 
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
-</p>
-
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
-</p>
-
-<p align="center">
-  <b>Infrastructure</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,linux,git,githubactions,nginx,aws" />
-</p>
-
-<p align="center">
-  <b>ML / AI</b><br/>
-  PyTorch · OpenCV · Transformers · NLP · Computer Vision · OCR · LLMs · Multimodal AI
-</p>
+Python, Java, C++, JavaScript, TypeScript  
+PyTorch, OpenCV, Transformers, NLP, Computer Vision, OCR, Multimodal AI  
+FastAPI, Spring Boot, Node.js  
+Docker, Kubernetes, Redis, AWS, Linux, Git
 
 ---
 
 ## Current Focus
 
-- Real-time ML inference
-- Distributed systems
-- MLOps and observability
-- Cost-efficient AI serving
-- Retrieval and decision systems
+- Real-time ML inference systems  
+- Distributed systems and scalability  
+- MLOps and production observability  
+- Cost-efficient AI infrastructure  
+- Retrieval and decision systems  
 
 ---
 
