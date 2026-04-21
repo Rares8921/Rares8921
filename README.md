@@ -63,10 +63,29 @@ Selected systems aligned with production ML and distributed infrastructure work.
 
 ## Core Technologies
 
-Python, Java, C++, JavaScript, TypeScript  
-PyTorch, OpenCV, Transformers, NLP, Computer Vision, OCR, Multimodal AI  
-FastAPI, Spring Boot, Node.js  
-Docker, Kubernetes, Redis, AWS, Linux, Git
+<p align="center">
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" /><br/>
+Python · Java · C++ · C · JavaScript · TypeScript
+</p>
+
+<p align="center">
+<b>Backend</b><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" /><br/>
+APIs · Microservices · REST · Async Systems
+</p>
+
+<p align="center">
+<b>Infrastructure</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws,linux,git,githubactions,nginx" /><br/>
+Distributed Systems · Cloud · Containers · CI/CD · Observability
+</p>
+
+<p align="center">
+<b>AI / ML</b><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" /><br/>
+Transformers · LLMs · NLP · OCR · Computer Vision · Multimodal AI
+</p>
 
 ---
 
