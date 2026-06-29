@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/overlay/1782729731519/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
   &nbsp;
   <a href="mailto:dumrares1@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
