@@ -112,7 +112,3 @@ I also keep a broader archive of personal projects covering Java, C/C++, Python,
 - Practical client software and automation
 
 ---
-
-<p align="center">
-  Building software systems where AI, backend engineering, and infrastructure meet.
-</p>
