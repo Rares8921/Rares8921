@@ -1,7 +1,7 @@
 <h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
 
 <p align="center">
-  <b>Software Engineer | AI Systems & ML Infrastructure</b>
+  <b>Software Engineer | AI Systems </b>
 </p>
 
 <p align="center">
