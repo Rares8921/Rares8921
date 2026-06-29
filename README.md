@@ -1,28 +1,22 @@
 <h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
 
 <p align="center">
-<b>Software Engineer | AI & Cloud Infrastructure | ML Systems | Distributed Systems</b>
+  <b>Software Engineer | AI Systems & ML Infrastructure</b>
 </p>
 
 <p align="center">
-I build production-grade machine learning systems focused on real-time inference, scalability, reliability, and cost efficiency.
+  I build backend and AI systems around document intelligence, retrieval, inference serving, computer vision, and practical automation.
 </p>
 
 <p align="center">
-My work sits at the intersection of backend engineering, distributed systems, and applied AI.
-</p>
-
-<p align="center">
+  <!-- Uncomment when the portfolio website is live.
   <a href="YOUR_PORTFOLIO_LINK">
     <img alt="Website" src="https://img.shields.io/badge/Website-008B8B?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
   &nbsp;
+  -->
   <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="YOUR_RESUME_LINK">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-darkgreen?style=for-the-badge&logo=read-the-docs&logoColor=white">
   </a>
   &nbsp;
   <a href="mailto:dumrares1@gmail.com">
@@ -34,67 +28,91 @@ My work sits at the intersection of backend engineering, distributed systems, an
 
 ## About
 
-Focused on building systems where machine learning must operate under real production constraints: latency, scale, reliability, and cost.
+I’m finishing my B.Sc. in Computer Science at the University of Bucharest and preparing to start an M.Sc. in Artificial Intelligence.
 
-Work spans inference systems, distributed architectures, retrieval pipelines, orchestration layers, and applied ML systems.
+My work sits close to the boundary between backend engineering, ML infrastructure, and applied AI. I’m interested in how models, data pipelines, retrieval systems, and services are put together into systems that can be tested, monitored, evaluated, and improved.
 
----
-
-## Featured Projects
-
-Selected systems aligned with production ML and distributed infrastructure work. More experiments and builds are available in my repositories.
-
-### Enterprise Multimodal Document Intelligence Platform
-- End-to-end OCR + LayoutLMv3 + retrieval + LLM system for document understanding.
-- 10k+ docs/day, 5.8k QPS, 94.3% extraction accuracy.
-- Distributed microservices architecture with async pipelines, caching, and observability.
-
-### Cost-Aware Autoscaling GPU Inference Cluster
-- Multi-tenant GPU inference platform with batching and Redis scheduling.
-- 2.3x throughput improvement with p99 <100ms under 5x traffic spikes.
-- 32% infrastructure cost reduction via autoscaling + warm pool design.
-
-### Human Behaviour Modeling for AI
-- Eye-tracking based ML pipeline on raw gaze streams.
-- BiLSTM + Attention model achieving 56% accuracy vs 9% baseline.
-- Behavioral analysis against computational saliency models.
+Over the past few years, I’ve built projects across document understanding, OCR, retrieval-augmented generation, inference serving, computer vision, and data processing. Earlier work across Java, C/C++, Python, web development, and algorithmic problem solving helped me build a broader software engineering base before focusing more deeply on AI systems.
 
 ---
 
-## Core Technologies
+## Selected Projects
+
+### [Enterprise Multimodal RAG Platform](https://github.com/Rares8921/enterprise-multimodal-rag-platform)
+
+Multiservice document intelligence prototype for OCR, LayoutLMv3 layout parsing, hybrid retrieval, LLM orchestration, monitoring, and reproducible evaluation.
+
+- Built services for document ingestion, OCR, layout parsing, embedding/indexing, query serving, and LLM orchestration.
+- Implemented Redis-backed async pipelines with PostgreSQL metadata, MinIO object storage, retries, dead-letter queues, and response caching.
+- Added Docker/Kubernetes deployment assets and Terraform-based AWS infrastructure for EKS, S3, RDS, and Redis.
+- Evaluated Pinecone-backed retrieval over public SEC filings, improving section-level Recall@5 from 0.34 to 0.79 using section metadata and reranking.
+
+### [Cost-Aware Autoscaling GPU Inference Cluster](https://github.com/Rares8921/cost-aware-inference-cluster)
+
+FastAPI inference-serving prototype with router, scheduler, and worker services coordinated through Redis queues and worker heartbeats.
+
+- Implemented tenant-aware rate limiting, priority-aware scheduling, dynamic batching, and worker-side request processing.
+- Designed autoscaling decision logic using queue depth, latency thresholds, warm-pool constraints, cooldowns, worker limits, and projected GPU cost.
+- Added deterministic unit/integration tests, autoscaling simulation evidence, and a local Docker Compose smoke/load benchmark.
+- Kept benchmark claims bounded to local and simulated evidence, not production performance or real GPU cost savings.
+
+### [Human Behaviour Analysis and Modeling](github.com/Rares8921/Eye-Tracking-data-analysis)
+
+Eye-tracking and behavior modeling project based on Pupil Labs Neon recordings from a public Find Waldo experiment.
+
+- Built a processing pipeline for gaze recordings and behavioral metrics.
+- Extracted fixation, spatial coverage, entropy, transition, and target-focused gaze features.
+- Compared gaze paths against saliency maps using NSS, AUC-Judd, and Information Gain.
+- Evaluated classical and neural models for behavior prediction and gaze transition modeling.
+
+---
+
+## Earlier Work
+
+I also keep a broader archive of personal projects covering Java, C/C++, Python, web development, algorithms, image processing, automation, and machine learning experiments.
+
+[Personal Projects Archive](https://github.com/Rares8921/Personal-Projects)
+
+---
+
+## Core Stack
 
 <p align="center">
-<b>Languages</b><br/>
-Python · Java · C++ · C · JavaScript · TypeScript
+  <b>Languages</b><br/>
+  Python · Java · SQL · C/C++ · JavaScript/TypeScript
 </p>
 
 <p align="center">
-<b>Backend</b><br/>
-FastAPI · Spring Boot · Node.js · REST APIs · Microservices · Async Systems
+  <b>AI / ML</b><br/>
+  PyTorch · Transformers · OCR · LayoutLMv3 · NLP · Computer Vision · scikit-learn
 </p>
 
 <p align="center">
-<b>Infrastructure</b><br/>
-Docker · Kubernetes · Redis · AWS · Linux · Git · CI/CD · Nginx
+  <b>Backend & Infrastructure</b><br/>
+  Spring Boot · FastAPI · Docker · Kubernetes · Terraform · Redis
 </p>
 
-<p align="center">
-<b>AI / ML</b><br/>
-Transformers · LLMs · NLP · OCR · Computer Vision · Multimodal AI · PyTorch · OpenCV
-</p>
+---
+
+## Competitive Programming & Achievements
+
+- County-level Informatics Olympiad placements: 4th place in 2021, 3rd place in 2022, 3rd place in 2023.
+- Nitro AI 2025: 3rd place out of 49 teams in an NLP + computer vision hackathon.
+- Netrom CodeGolf 2025: 1st place out of around 60 participants.
+- Netrom CodeGolf 2024: 3rd place out of 60 participants.
 
 ---
 
 ## Current Focus
 
-- Real-time ML inference systems  
-- Distributed systems and scalability  
-- MLOps and production observability  
-- Cost-efficient AI infrastructure  
-- Retrieval and decision systems  
+- AI systems and ML infrastructure
+- Document intelligence and OCR pipelines
+- Retrieval-augmented generation
+- Inference serving and backend systems
+- Practical client software and automation
 
 ---
 
 <p align="center">
-<i>Always building.</i>
+  Building software systems where AI, backend engineering, and infrastructure meet.
 </p>
