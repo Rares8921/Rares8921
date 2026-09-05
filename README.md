@@ -1,11 +1,11 @@
-<h1 align="center">Rareș Cocoșilă-Dumitriu</h1>
+<h1 align="center">Rares Cocosila-Dumitriu</h1>
 
 <p align="center">
-  <b>Software Engineer | AI Systems </b>
+  <b>Software Engineer | AI Infrastructure & Systems</b>
 </p>
 
 <p align="center">
-  I build backend and AI systems around document intelligence, retrieval, inference serving, computer vision, and practical automation.
+  I build backend, AI, and infrastructure systems focused on document intelligence, retrieval, inference serving, observability, and autonomous engineering workflows.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/rares-cocosila-dumitriu/overlay/1782729731519/single-media-viewer/?profileId=ACoAADQ29LABxaK4dYbdisGw9MUUAsQLQce6NQ8">
+  <a href="YOUR_RESUME_LINK">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white">
   </a>
   &nbsp;
@@ -31,11 +31,13 @@
 
 ## About
 
-I’m finishing my B.Sc. in Computer Science at the University of Bucharest and preparing to start an M.Sc. in Artificial Intelligence.
+I'm a Software Engineer focused on AI infrastructure, backend systems, and the engineering required to make AI systems reliable in practice.
 
-My work sits close to the boundary between backend engineering, ML infrastructure, and applied AI. I’m interested in how models, data pipelines, retrieval systems, and services are put together into systems that can be tested, monitored, evaluated, and improved.
+My work sits at the intersection of AI systems, distributed infrastructure, and backend engineering. I'm particularly interested in systems that connect models to real infrastructure: retrieval and document pipelines, inference services, agent capabilities, deployment workflows, observability, evaluation, and operational automation.
 
-Over the past few years, I’ve built projects across document understanding, OCR, retrieval-augmented generation, inference serving, computer vision, and data processing. Earlier work across Java, C/C++, Python, web development, and algorithmic problem solving helped me build a broader software engineering base before focusing more deeply on AI systems.
+I recently completed my B.Sc. in Computer Science at the University of Bucharest and am pursuing an M.Sc. in Artificial Intelligence.
+
+Outside engineering, I'm into competitive programming and chess.
 
 ---
 
@@ -43,36 +45,29 @@ Over the past few years, I’ve built projects across document understanding, OC
 
 ### [Enterprise Multimodal RAG Platform](https://github.com/Rares8921/enterprise-multimodal-rag-platform)
 
-Multiservice document intelligence prototype for OCR, LayoutLMv3 layout parsing, hybrid retrieval, LLM orchestration, monitoring, and reproducible evaluation.
+Multiservice document intelligence platform combining OCR, layout understanding, hybrid retrieval, LLM orchestration, observability, and reproducible evaluation.
 
-- Built services for document ingestion, OCR, layout parsing, embedding/indexing, query serving, and LLM orchestration.
-- Implemented Redis-backed async pipelines with PostgreSQL metadata, MinIO object storage, retries, dead-letter queues, and response caching.
+- Built services for document ingestion, OCR, LayoutLMv3 layout parsing, embedding/indexing, retrieval, and LLM orchestration.
+- Designed Redis-backed asynchronous pipelines with PostgreSQL metadata, MinIO object storage, retries, dead-letter queues, and response caching.
 - Added Docker/Kubernetes deployment assets and Terraform-based AWS infrastructure for EKS, S3, RDS, and Redis.
-- Evaluated Pinecone-backed retrieval over public SEC filings, improving section-level Recall@5 from 0.34 to 0.79 using section metadata and reranking.
+- Evaluated retrieval over public SEC filings, improving section-level Recall@5 from 0.34 to 0.79 through metadata-aware retrieval and reranking.
+- Added monitoring and evaluation workflows to make system behavior measurable and reproducible.
 
 ### [Cost-Aware Autoscaling GPU Inference Cluster](https://github.com/Rares8921/cost-aware-inference-cluster)
 
 FastAPI inference-serving prototype with router, scheduler, and worker services coordinated through Redis queues and worker heartbeats.
 
 - Implemented tenant-aware rate limiting, priority-aware scheduling, dynamic batching, and worker-side request processing.
-- Designed autoscaling decision logic using queue depth, latency thresholds, warm-pool constraints, cooldowns, worker limits, and projected GPU cost.
-- Added deterministic unit/integration tests, autoscaling simulation evidence, and a local Docker Compose smoke/load benchmark.
-- Kept benchmark claims bounded to local and simulated evidence, not production performance or real GPU cost savings.
-
-### [Human Behaviour Analysis and Modeling](github.com/Rares8921/Eye-Tracking-data-analysis)
-
-Eye-tracking and behavior modeling project based on Pupil Labs Neon recordings from a public Find Waldo experiment.
-
-- Built a processing pipeline for gaze recordings and behavioral metrics.
-- Extracted fixation, spatial coverage, entropy, transition, and target-focused gaze features.
-- Compared gaze paths against saliency maps using NSS, AUC-Judd, and Information Gain.
-- Evaluated classical and neural models for behavior prediction and gaze transition modeling.
+- Designed autoscaling logic using queue depth, latency thresholds, warm-pool constraints, cooldowns, worker limits, and projected GPU cost.
+- Built deterministic unit and integration tests covering scheduling, routing, worker behavior, and scaling decisions.
+- Added autoscaling simulation evidence and a local Docker Compose smoke/load benchmark.
+- Kept performance and cost claims bounded to local and simulated evidence rather than presenting them as production results.
 
 ---
 
 ## Earlier Work
 
-I also keep a broader archive of personal projects covering Java, C/C++, Python, web development, algorithms, image processing, automation, and machine learning experiments.
+I also maintain an archive of earlier projects covering Java, C/C++, Python, web development, algorithms, image processing, automation, and machine learning experiments.
 
 [Personal Projects Archive](https://github.com/Rares8921/Personal-Projects)
 
@@ -82,7 +77,7 @@ I also keep a broader archive of personal projects covering Java, C/C++, Python,
 
 <p align="center">
   <b>Languages</b><br/>
-  Python · Java · SQL · C/C++ · JavaScript/TypeScript
+  Python · Go · Java · SQL · C/C++ · JavaScript/TypeScript
 </p>
 
 <p align="center">
@@ -92,14 +87,19 @@ I also keep a broader archive of personal projects covering Java, C/C++, Python,
 
 <p align="center">
   <b>Backend & Infrastructure</b><br/>
-  Spring Boot · FastAPI · Docker · Kubernetes · Terraform · Redis
+  FastAPI · Spring Boot · Docker · Kubernetes · Terraform · Redis · PostgreSQL · AWS · Azure
+</p>
+
+<p align="center">
+  <b>Observability & Operations</b><br/>
+  OpenTelemetry · Prometheus · Grafana · Langfuse · Argo CD · Argo Workflows · Vault
 </p>
 
 ---
 
 ## Competitive Programming & Achievements
 
-- County-level Informatics Olympiad placements: 4th place in 2021, 3rd place in 2022, 3rd place in 2023.
+- County-level Informatics Olympiad: 4th place in 2021, 3rd place in 2022, 3rd place in 2023.
 - Nitro AI 2025: 3rd place out of 49 teams in an NLP + computer vision hackathon.
 - Netrom CodeGolf 2025: 1st place out of around 60 participants.
 - Netrom CodeGolf 2024: 3rd place out of 60 participants.
@@ -108,10 +108,10 @@ I also keep a broader archive of personal projects covering Java, C/C++, Python,
 
 ## Current Focus
 
-- AI systems and ML infrastructure
-- Document intelligence and OCR pipelines
-- Retrieval-augmented generation
-- Inference serving and backend systems
-- Practical client software and automation
-
----
+- AI infrastructure and agent systems
+- Distributed systems and backend engineering
+- Infrastructure automation and deployment
+- Observability, SLOs, and system reliability
+- Document intelligence and retrieval systems
+- Inference serving and resource-aware scheduling
+- Evaluation and operational tooling for AI systems
